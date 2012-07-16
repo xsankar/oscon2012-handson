@@ -1,0 +1,10 @@
+argparse==1.2.1
+distribute==0.6.24
+networkx==1.7
+numpy==1.6.2
+pydot==1.0.28
+pymongo==2.2.1
+pyparsing==1.5.6
+requests==0.13.3
+requests-oauth==0.4.1
+wsgiref==0.1.2
