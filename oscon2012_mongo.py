@@ -12,7 +12,7 @@ print "pymongo version = ",pymongo.version
 def connect_to_db():
     server_url=""
     server_port=27017
-    connection = pymongo.Connection(server_url,serevr_port)
+    connection = pymongo.Connection(server_url,server_port)
     print 'Connected to DB!'
     return connection
 
